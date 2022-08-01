@@ -4,7 +4,6 @@ let cityName = "";
 const searchBtn = document.querySelector(".search-button");
 const searchBar = document.querySelector(".search-bar");
 const weatherInCity = document.querySelector(".weather-city");
-const loadingInfo = document.querySelector(".weather-information");
 const weatherIcon = document.querySelector(".weather-icon");
 const temp = document.querySelector(".weather-temperature");
 const weatherDescription = document.querySelector(".weather-description");
