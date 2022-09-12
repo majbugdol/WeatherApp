@@ -1,4 +1,3 @@
-// const city = { name: "Katowice", location: { latitude: 0, longitude: 0 } };
 let dataObj = {};
 let cityName = "";
 const searchBtn = document.querySelector(".search-button");
